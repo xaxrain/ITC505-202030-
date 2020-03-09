@@ -1,0 +1,12 @@
+mkdir Topic1
+mkdir Topic2
+mkdir Topic3
+mkdir Topic4
+mkdir Topic5
+mkdir Topic6
+mkdir Topic7
+mkdir Topic8
+mkdir Topic9
+mkdir Topic10
+mkdir Topic11
+mkdir Topic12
